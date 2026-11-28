@@ -1,1 +1,21 @@
-{ "events": [], "pickup": { "id": "CMD046", "from": "2026-11-09", "to": "2026-11-22" } }
+{
+ "events": [],
+ "pickup": {
+  "id": "CMD046",
+  "from": "2026-11-09",
+  "to": "2026-11-22"
+ },
+ "gifts": [
+  {
+   "id": "G-20261128-01",
+   "to": "440e3c9af31276b7",
+   "from": "2026-11-28",
+   "until": "2027-01-07",
+   "title": "灯火のお返し",
+   "msg": "交換所でご不便をおかけしました。アリアとの交換にお使いください。",
+   "titleEn": "Flames returned",
+   "msgEn": "Sorry for the trouble at the exchange. Please use these to exchange for Aria.",
+   "medals": 1500
+  }
+ ]
+}
